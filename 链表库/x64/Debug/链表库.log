@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\lenovo\source\repos\链表库\链表库\my_list.h(38,1): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+C:\Users\lenovo\source\repos\链表库\链表库\my_list.h(44,3): message : 查看对正在编译的 类 模板 实例化“my_List::List<T>”的引用
+C:\Users\lenovo\source\repos\链表库\链表库\my_list.h(416,3): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+  链表库.vcxproj -> C:\Users\lenovo\source\repos\链表库\x64\Debug\链表库.exe
