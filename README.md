@@ -61,3 +61,5 @@ T& operator[](size_t i) throw(std::string);
 
 重载=运算符避免逐位复制，会把左边的链表复制到右边去，而不是复制头指针：
 List<T>& operator=(const List<T>& list);
+
+哈哈哈，github总算会用了哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
