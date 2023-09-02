@@ -2,19 +2,19 @@
 #这是一个自制的链表库，我平时没事的时候闲的蛋疼写的
 #我希望用于取代之前使用的vector库
 
-//my_list.h
-//2023.9.2完成该库,目标取代vector
+my_list.h
+2023.9.2完成该库,目标取代vector
 
-//主要开发者:
+主要开发者:
 
-//sun_x_chuan123
-//haodedoge
+sun_x_chuan123
+haodedoge
 
-//特别感谢:
+特别感谢:
 
 
-//bilibili __乐达__
-//bilibili __孙川__曾经的狗__
+bilibili __乐达__
+bilibili __孙川__曾经的狗__
 
 类模板List有以下方法：
 
